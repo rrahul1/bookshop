@@ -14,6 +14,7 @@ function Header() {
           <Nav.Link href="/book/orders">Orders</Nav.Link>
           <Nav.Link href="/login">Login</Nav.Link>
           <Nav.Link href="/signup">Signup</Nav.Link>
+          <Nav.Link href="/book/orders">Logout</Nav.Link>
         </Nav>
       </Container>
     </Navbar>
